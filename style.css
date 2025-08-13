@@ -10,14 +10,12 @@
             justify-content: center;
             font-family: 'Segoe UI', sans-serif;
         }
-
         .container {
             padding: 30px;
             border-radius: 15px;
             text-align: center;
             transition: background 0.5s ease, box-shadow 0.5s ease;
         }
-
         button {
             border: none;
             padding: 12px 30px;
@@ -27,7 +25,6 @@
             margin-top: 20px;
             transition: all 0.3s;
         }
-
         /* Color display box */
         #colorDisplay {
             margin-top: 15px;
